@@ -1,3 +1,4 @@
 
 old line
 Sample Feature
+This is Cnflict file
